@@ -1,0 +1,1 @@
+/home/cata-884/Downloads/rust_lab_2025/tar_project/target/debug/tar_project: /home/cata-884/Downloads/rust_lab_2025/tar_project/src/archive.rs /home/cata-884/Downloads/rust_lab_2025/tar_project/src/extract.rs /home/cata-884/Downloads/rust_lab_2025/tar_project/src/header.rs /home/cata-884/Downloads/rust_lab_2025/tar_project/src/main.rs
