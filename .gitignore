@@ -1,0 +1,7 @@
+/target/
+
+archive.tar
+archive.tar.gz
+/fisier/
+
+.DS_Store
